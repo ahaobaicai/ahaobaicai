@@ -4,10 +4,6 @@ window.blog = {
   link: "http://blog.sina.com.cn/u/1790814652",
   urls: [
     {
-      text: "对不起，卡卡姐姐",
-      href: "https://blog.sina.com.cn/s/blog_6abda9bc0102x2xh.html",
-    },
-    {
       text: "My favourite country",
       href: "https://blog.sina.com.cn/s/blog_6abda9bc0102wcki.html",
     },
