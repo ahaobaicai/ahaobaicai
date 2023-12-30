@@ -1,0 +1,1 @@
+window.post={"title":"将博客搬至CSDN","date":"2014-02-17 17:05:01","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0101g5dz.html","content":"搬迁部分文章"}

@@ -1,0 +1,1 @@
+window.post={"title":"养女儿有什么用啊～～～","date":"2011-07-02 03:44:42","cate":"瑞典","tags":[],"imgs":{"8C8FE235EA89499FBCBD07BE17BFB26C":"http://www.sinaimg.cn/uc/myshow/blog/misc/gif/E___7394ZH00SIGG.gif"},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100v8ki.html","content":"<p>卡卡姐姐要送我去养老院<img src=\"./imgs/8C8FE235EA89499FBCBD07BE17BFB26C\" /></p>"}

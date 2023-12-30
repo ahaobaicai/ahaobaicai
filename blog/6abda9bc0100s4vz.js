@@ -1,0 +1,1 @@
+window.post={"title":"爸爸的小情人","date":"2011-04-10 14:57:56","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100s4vz.html","content":"<p>你上辈子是爸爸的情人吗？</p>\n<p>是</p>\n<p>那你是喜欢他有钱还是因为他帅呢</p>\n<p>因为帅</p>"}

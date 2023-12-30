@@ -1,0 +1,1 @@
+window.post={"title":"春天来了","date":"2013-05-05 20:39:24","cate":"","tags":[],"imgs":{"714FE26E233849F48E5D37EC1BCF91BF":"http://s2.sinaimg.cn/orignal/6abda9bcgdbf7e4c815c1"},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0101b51w.html","content":"<img src=\"./imgs/714FE26E233849F48E5D37EC1BCF91BF\" />"}

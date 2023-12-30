@@ -1,0 +1,1 @@
+window.post={"title":"生日","date":"2013-02-13 09:56:01","cate":"","tags":[],"imgs":{"1494A75559584436B2DCE07131A1B6BE":"http://s16.sinaimg.cn/orignal/6abda9bcgd59190eeb43f"},"link":"https://blog.sina.com.cn/s/blog_6abda9bc010192f3.html","content":"<div>今天糖糖爸爸生日，收到了她送的礼物，听说还录像了，很期待.....<img src=\"./imgs/1494A75559584436B2DCE07131A1B6BE\" /></div>"}

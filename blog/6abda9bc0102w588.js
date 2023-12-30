@@ -1,0 +1,1 @@
+window.post={"title":"新浪博客太慢了，再见","date":"2015-11-06 05:31:27","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0102w588.html","content":"<embed allowscriptaccess=\"never\" allownetworking=\"internal\" autostart=\"0\" type=\"application/thunder_download_plugin\" height=\"0\" width=\"0\">博客搬家：&nbsp;LOFTERA2B663D70AC476EBB20194F1E8B977A9"}

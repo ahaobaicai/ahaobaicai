@@ -1,0 +1,1 @@
+window.post={"title":"新浪博客太慢了，再见:&nbsp;LOFTERA2B663D70AC476EBB20194F1E8B977A9","date":"2015-11-06 05:31:27","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0102w58a.html","content":"好不容易写一篇博客，还发不出去"}

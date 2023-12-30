@@ -1,0 +1,1 @@
+window.post={"title":"不穿牛仔裤","date":"2011-09-30 13:47:38","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100x7qz.html","content":"<p>早上给她穿衣服，挑三拣四，不穿这，不穿那。</p>\n<p>才这么小，就对穿衣这么高的要求，长大了怎么得了</p>\n<p>典型的败家女的迹象啊</p>"}

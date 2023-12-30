@@ -1,0 +1,1 @@
+window.post={"title":"照片一张","date":"2012-08-06 00:59:54","cate":"瑞典","tags":[],"imgs":{"54073B82D97C4317AB8024F0763A69A4":"http://s15.sinaimg.cn/middle/6abda9bcgc687c042c6de&690"},"link":"https://blog.sina.com.cn/s/blog_6abda9bc01014hdl.html","content":"<div></div>\n<img src=\"./imgs/54073B82D97C4317AB8024F0763A69A4\" />"}

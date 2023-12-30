@@ -1,0 +1,1 @@
+window.post={"title":"该刮胡子啦","date":"2010-12-06 08:42:58","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100mzp7.html","content":"昨晚卡卡姐姐抱着我睡觉时说，爸爸，你明天早上能刮下胡子吗？ 我说，为什么要我刮胡子呢？ 她说，因为你的胡子会扎的我很痛。"}

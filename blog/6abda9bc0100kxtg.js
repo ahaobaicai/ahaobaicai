@@ -1,0 +1,1 @@
+window.post={"title":"不知道什么时候，已经知道男女有别了","date":"2010-09-29 21:53:30","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100kxtg.html","content":"<div>3岁10个月零16天</div>\n<div>\n今天卡卡姐姐在洗手间洗澡，刚刚把外套脱掉，看见我站在旁边看着她，就不脱了，说，爸爸你出去。不由分说就把我推出去，然后就把门给反锁上了，任我叫破喉咙都不开门。</div>\n<div>妈妈的，娃儿大了，连亲爹都不认了。</div>"}

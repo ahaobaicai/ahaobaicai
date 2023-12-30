@@ -1,0 +1,1 @@
+window.post={"title":"赫尔辛基一日游","date":"2011-08-16 02:16:13","cate":"","tags":[],"imgs":{"1CFAD70739A34DA69AAF5AB6C8930B52":"http://s14.sinaimg.cn/middle/6abda9bcgaa8f5239d26d&690"},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100w81m.html","content":"趁夏天还没有完，我们坐海盗船去芬兰玩了1天，通行3个中国小朋友，卡卡姐姐玩的很开心<img src=\"./imgs/1CFAD70739A34DA69AAF5AB6C8930B52\" />"}

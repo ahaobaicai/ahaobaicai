@@ -1,0 +1,1 @@
+window.post={"title":"第一次接她放学","date":"2011-06-30 04:27:55","cate":"","tags":[],"imgs":{},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0100v6vf.html","content":"<p>挪威出差3周，今天返回瑞典。</p>\n<p>她知道我今天回来，就要我早点和她妈妈一起接她放学，觉得特有面子。</p>"}

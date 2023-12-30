@@ -1,0 +1,1 @@
+window.post={"title":"合影","date":"2014-10-20 05:41:09","cate":"瑞典","tags":[],"imgs":{"78BE4E1BF5174E80893C694FC56BDF77":"http://s1.sinaimg.cn/orignal/001Xc4Higy6MX0hk4Ks80"},"link":"https://blog.sina.com.cn/s/blog_6abda9bc0102v4jc.html","content":"<img src=\"./imgs/78BE4E1BF5174E80893C694FC56BDF77\" />"}
