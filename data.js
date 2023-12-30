@@ -1,6 +1,6 @@
 window.blog = {
   uid: "1790814652",
-  title: "唐老汉",
+  title: "卡卡姐姐的(新浪)博客",
   link: "http://blog.sina.com.cn/u/1790814652",
   urls: [
     {
